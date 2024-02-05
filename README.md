@@ -3,7 +3,7 @@ Data to support UAS lidar species classification to distinguish Douglas-fir and 
 
 These data support the following article:
 McGaughey, R.J.; Kruper, A.; Bobsin, C.R.; Bormann, B.T. Tree Species Classification Based on Upper Crown Morphology Captured by
-Uncrewed Aircraft Systems’ Lidar Data. Remote Sens. 2024, 16, x. https://doi.org/10.3390/xxxxx
+Uncrewed Aircraft System Lidar Data. Remote Sens. 2024, 16, x. https://doi.org/10.3390/xxxxx
 
 ## Data Organization
 Data are organized into three folders: GroundModels, PointClouds, and ModelingData. The GroundModels folder contains ground surfaces
