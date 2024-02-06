@@ -17,3 +17,5 @@ Data are organized into three folders as shown in the table below:
 The .dtm files can be read using the [fusionwrapr R package](https://github.com/bmcgaughey1/fusionwrapr).
 
 Columns/fields in the modeling data are described in [ColumnDescriptions](ColumnDescriptions.md).
+
+[FUSION software](https://forsys.sefs.uw.edu/fusion/fusionlatest.html)

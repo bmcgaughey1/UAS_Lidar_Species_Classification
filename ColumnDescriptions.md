@@ -4,7 +4,7 @@
 | Tag_Num                          | Tree number                                                                                        |
 | Tree.ID                          | Tree identifier constructed from Plot_Number, Tag_Num, and Species                                 |
 |                                  |                                                                                                    |
-|                                  | Adjusted locations for person 1                                                                    |
+|                                  | **Adjusted locations for person 1**                                                                    |
 | X.Person1                        | Base location X                                                                                    |
 | Y.Person1                        | Base location Y                                                                                    |
 | Elevation.Person1                | Base elevation                                                                                     |
@@ -23,7 +23,7 @@
 | TopX.Person1                     | Top location X (computed using base location, tree lean, and lean   azimuth)                       |
 | TopY.Person1                     | Top location Y (computed using base location, tree lean, and lean   azimuth)                       |
 |                                  |                                                                                                    |
-|                                  | Adjusted locations for person 2                                                                    |
+|                                  | **Adjusted locations for person 2**                                                                    |
 | X.Person2                        | Base location X                                                                                    |
 | Y.Person2                        | Base location Y                                                                                    |
 | Elevation.Person2                | Base elevation                                                                                     |
@@ -42,7 +42,7 @@
 | TopX.Person2                     | Top location X (computed using base location, tree lean, and lean   azimuth)                       |
 | TopY.Person2                     | Top location Y (computed using base location, tree lean, and lean   azimuth)                       |
 |                                  |                                                                                                    |
-|                                  | Differences between adjusted locations for two people                                              |
+|                                  | **Differences between adjusted locations for two people**                                              |
 | diffX                            | Base X difference between adjustments for two people                                               |
 | diffY                            | Base Y difference between adjustments for two people                                               |
 | diffTopX                         | Top X difference between adjustments for two people                                                |
@@ -50,7 +50,7 @@
 | diff                             | Base horizontal difference between adjustments for two people                                      |
 | diffTop                          | Top horizontal difference between adjustments for two people                                       |
 |                                  |                                                                                                    |
-|                                  | Field measurements                                                                                 |
+|                                  | **Field measurements**                                                                                 |
 | PlotID                           | Plot identifier (number)                                                                           |
 | Study                            | Study identifier (T3 for all trees)                                                                |
 | Year                             | Measurement year (2021 for all trees)                                                              |
@@ -67,7 +67,7 @@
 | Bear_damage_percent              | Bear damage code (all NA)                                                                          |
 | Note                             | Field notes                                                                                        |
 |                                  |                                                                                                    |
-|                                  | Tree location                                                                                      |
+|                                  | **Tree location**                                                                                      |
 | Xfield                           | Original field X based on GPS position for plot reference point and   azimuth and distance to tree |
 | Yfield                           | Original field Y based on GPS position for plot reference point and   azimuth and distance to tree |
 | hanusHt                          | Predicted height using Hanus, et al. equations                                                     |
@@ -80,7 +80,7 @@
 | origdiff.Person2                 | Base horizontal difference between person 2 adjusted location and field   location                 |
 | heightdiff                       | Height difference between person 1 and person 2                                                    |
 |                                  |                                                                                                    |
-|                                  | Differences between adjusted and original tree locations                                           |
+|                                  | **Differences between adjusted and original tree locations**                                           |
 | aveBaseX                         | Average base X for persons 1 and 2                                                                 |
 | aveBaseY                         | Average base Y for persons 1 and 2                                                                 |
 | aveBaseElevation                 | Average base elevation for persons 1 and 2                                                         |
@@ -90,7 +90,7 @@
 | topElevation                     | Average top elevation for persons 1 and 2                                                          |
 | aveCrownDia                      | Average crown dia for persons 1 and 2                                                              |
 |                                  |                                                                                                    |
-|                                  | Point-cloud metrics                                                                                |
+|                                  | **Point-cloud metrics**                                                                                |
 | DataFile                         | Point data file for upper 3 m of 1 m radius cylinder of points                                     |
 | FileTitle                        | File title extracted from DataFile                                                                 |
 | Total.return.count               | Total number of returns                                                                            |
@@ -175,4 +175,4 @@
 | Int.P90                          | Percentile of intensity (90%)                                                                      |
 | Int.P95                          | Percentile of intensity (95%)                                                                      |
 | Int.P99                          | Percentile of intensity (99%)                                                                      |
-| Profile.area                     | See FUSION manual for definition and reference (not used for this   analysis)                      |
+| Profile.area                     | See FUSION manual for definition and reference (not used for this analysis)                      |
