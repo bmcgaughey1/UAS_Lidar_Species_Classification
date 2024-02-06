@@ -3,7 +3,7 @@ Data to support UAS lidar species classification to distinguish Douglas-fir and 
 
 These data support the following article:
 McGaughey, R.J.; Kruper, A.; Bobsin, C.R.; Bormann, B.T. Tree Species Classification Based on Upper Crown Morphology Captured by
-Uncrewed Aircraft System Lidar Data. Remote Sens. 2024, 16, 6, 603. [IDN](https://doi.org/10.3390/rs16040603)
+Uncrewed Aircraft System Lidar Data. Remote Sens. 2024, 16, 6, 603. [https://doi.org/10.3390/rs16040603](https://doi.org/10.3390/rs16040603)
 
 ## Data Organization
 Data are organized into folders as shown in the table below:
