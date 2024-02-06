@@ -15,3 +15,5 @@ Data are organized into three folders as shown in the table below:
 | ModelingData | Excel spreadsheet and CSV file containing field measurements and lidar metrics used to train a classification model. |
 
 The .dtm files can be read using the [fusionwrapr R package](https://github.com/bmcgaughey1/fusionwrapr).
+
+Columns/fields in the modeling data are described in [ColumnDescriptions](ColumnDescriptions.md).
