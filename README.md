@@ -7,6 +7,6 @@ Uncrewed Aircraft System Lidar Data. Remote Sens. 2024, 16, 6, 603. [IDN](https:
 
 ## Data Organization
 Data are organized into three folders: GroundModels, PointClouds, and ModelingData. The GroundModels folder contains ground surfaces
-derived from the point cloud data and stored in FUSION's .dtm format. These files can be read using the [fusionwrapr R package](https://github.com/bmcgaughey1/fusionwrapr). The
+derived from the point cloud data stored in FUSION's .dtm format and GeoTiff format. The .dtm files can be read using the [fusionwrapr R package](https://github.com/bmcgaughey1/fusionwrapr). The
 PointClouds folder contains point cloud data for the 27 plots used in the anlayses stored in LAZ format. The Modeling data includes 
 an Excel spreadsheet containing the data used to train and validate the random forest classification model presented in the paper.
