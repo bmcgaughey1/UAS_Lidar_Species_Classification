@@ -1,5 +1,5 @@
 # UAS_Lidar_Species_Classification
-Data to support UAS lidar species classification to distinguish Douglas-fir and western hemlock in the Pacific Northwest, UAS.
+Data to support UAS lidar species classification to distinguish Douglas-fir and western hemlock in the Pacific Northwest, USA.
 
 These data support the following article:
 McGaughey, R.J.; Kruper, A.; Bobsin, C.R.; Bormann, B.T. Tree Species Classification Based on Upper Crown Morphology Captured by
